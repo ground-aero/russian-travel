@@ -1,0 +1,23 @@
+.lead {
+  padding-top: 56px;
+  margin: 0 auto;
+  background-color: #2a2c2f;
+  font-family: 'Inter', 'Arial', sans-serif;
+  color: white;
+}
+
+@media (max-width: 1279px) {
+  .lead {
+    padding-top: 48px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .lead {
+  }
+}
+
+@media (max-width: 767px) {
+  .lead {
+  }
+}
