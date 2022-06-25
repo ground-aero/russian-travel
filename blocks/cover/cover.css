@@ -1,6 +1,5 @@
 .cover {
   margin: 0 auto;
-  padding-top: 92px;
   padding-bottom: 92px;
   background-color: #2a2c2f;
   font-family: 'Inter', 'Arial', sans-serif;
@@ -9,14 +8,12 @@
 
 @media (max-width: 1023px) {
   .cover {
-    padding-top: 90px;
     padding-bottom: 88px;
   }
 }
 
 @media (max-width: 767px) {
   .cover {
-    padding-top: 66px;
     padding-bottom: 64px;
   }
 }

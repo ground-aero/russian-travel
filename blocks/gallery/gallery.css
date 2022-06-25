@@ -1,25 +1,24 @@
 .gallery {
   margin: 0 auto;
-  padding-top: 92px;
   padding-bottom: 92px;
 }
 
 @media (max-width: 1279px) {
   .gallery {
-    gap: 14px;
+     gap: 14px;
   }
 }
 
 @media (max-width: 1023px) {
   .gallery {
-    /* padding: 88px 24px; */
+    padding: 0 24px 88px;
     gap: 16px;
   }
 }
 
 @media (max-width: 767px) {
   .gallery {
-    /* padding: 64px 16px; */
+    padding: 0 16px 64px;
     gap: 12px;
   }
 }

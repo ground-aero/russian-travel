@@ -1,3 +1,10 @@
 .place__photo {
   align-self: start;  
+  width: 100%;
+}
+
+@media (max-width: 767px) {
+  .place__photo {
+    padding-bottom: 32px;
+  }
 }

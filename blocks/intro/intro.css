@@ -1,5 +1,27 @@
 .intro {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 0 auto;
+  background-color: #2a2c2f;
+  font-family: 'Inter', 'Arial', sans-serif;
+  color: white;
+  padding-bottom: 92px;
+    outline: 2px dashed orange;
+}
+
+@media (max-width: 1023px) {
+  .intro {
+    padding-bottom: 88px;
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media (max-width: 767px) {
+  .intro {
+    padding-bottom: 64px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
 }

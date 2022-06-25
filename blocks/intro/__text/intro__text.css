@@ -6,3 +6,9 @@
   margin: 0;
   padding-bottom: 33px;
 }
+
+@media (max-width: 767px) {
+  .intro__text {
+    padding-bottom: 34px;
+  }
+}

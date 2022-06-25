@@ -6,15 +6,22 @@
   color: white;
   padding-right: 18px;
   margin: 0;
-  transition: opacity 0.5s linear;
+  transition: opacity 0.3s linear;
   outline: 1px dashed lightgrey;
 }
 
 .header__lang-link:hover {
-  opacity: 0.6;
+  opacity: 0.8;
   text-decoration: underline;
 }
 
 .header__lang-link:last-of-type {
   padding-right: 0;
+}
+
+@media (max-width: 767px) {
+  .header__lang-link {
+    font-size: 18px;
+  line-height: 20px;
+  }
 }
