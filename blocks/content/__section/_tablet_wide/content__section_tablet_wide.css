@@ -1,0 +1,6 @@
+@media (max-width: 767px) {
+  .content__section_tablet_wide {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}

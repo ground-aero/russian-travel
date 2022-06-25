@@ -1,0 +1,7 @@
+
+@media (max-width: 600px) {
+.content__section_mobile_wide {
+  padding-left: 0;
+  padding-right: 0;
+}
+}

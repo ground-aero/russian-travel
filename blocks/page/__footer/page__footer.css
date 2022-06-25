@@ -17,3 +17,9 @@
     padding: 0 16px;
   }
 }
+
+/* @media (max-width: 600px) {
+  .page__footer {
+    padding: 0 16px;
+  }
+} */
