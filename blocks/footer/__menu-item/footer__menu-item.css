@@ -1,18 +1,17 @@
 .footer__menu-item {
-  padding-right: 18px;
+  padding-right: 14px;
   margin: 0;
   text-decoration: none;
   color: white;
   font-weight: 400;
   font-size: 16px;
   line-height: 18px;
-  transition: .3s linear;
+  transition: opacity 0.3s linear;
 }
 
 .footer__menu-item:hover {
-opacity: 0.8;
+  opacity: 0.8;
 }
-
 
 @media (max-width: 767px) {
   .footer__menu-item {

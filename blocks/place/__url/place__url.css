@@ -2,9 +2,10 @@
   color: #aaaaaa;
   font-weight: 400;
   font-size: 12px;
-  line-height: 20px;
+  line-height: 12px;
+  letter-spacing: 2px;
   margin: 0;
-  padding-bottom: 12px;
+  padding-bottom: 8px;
 }
 
 @media (max-width: 1023px) {

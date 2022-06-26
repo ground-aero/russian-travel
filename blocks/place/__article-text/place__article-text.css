@@ -6,6 +6,10 @@
   padding-bottom: 26px;
 }
 
+.place__article-text:last-child {
+  padding-bottom: 0;
+}
+
 @media (max-width: 1023px) {
   .place__article-text {
     font-size: 16px;

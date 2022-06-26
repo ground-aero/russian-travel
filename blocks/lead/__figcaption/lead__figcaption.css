@@ -1,11 +1,12 @@
 .lead__figcaption {
   margin: 0;
   padding: 0;
-  min-width: 158px;
-  min-height: 14px;
   font-size: 10px;
   font-weight: 400;
   line-height: 14px;
+  letter-spacing: 1.5px;
+text-transform: uppercase;
   position: relative;
   padding-top: 8px;
+
 }
