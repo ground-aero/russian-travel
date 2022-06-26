@@ -20,6 +20,7 @@
 
 @media (max-width: 767px) {
   .place__article-text {
+    padding-top: 0;
     padding-left: 16px;
     padding-right: 16px;
     padding-bottom: 25px;

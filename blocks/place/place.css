@@ -31,6 +31,6 @@
   .place {
     grid-template-columns: 320px auto;
     display: block;
-    padding-bottom: 73px;
+    padding-bottom: 50px;
   }
 }

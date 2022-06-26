@@ -21,3 +21,9 @@
     padding-bottom: 32px;
   }
 }
+
+@media (max-width: 767px) {
+  .footer__menu-item:last-child {
+    padding-bottom: 0px;
+  }
+}
