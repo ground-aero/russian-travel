@@ -8,5 +8,10 @@
 text-transform: uppercase;
   position: relative;
   padding-top: 8px;
+}
 
+@media (max-width: 1023px) {
+.lead__figcaption {
+    padding-left: 24px;
+  }
 }
