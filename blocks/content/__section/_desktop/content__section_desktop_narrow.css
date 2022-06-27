@@ -1,6 +1,5 @@
 .content__section_desktop_narrow {
   max-width: calc(984px + (48px * 2));
-  outline: 1px dashed green;
 }
 
 @media (max-width: 1023px) {

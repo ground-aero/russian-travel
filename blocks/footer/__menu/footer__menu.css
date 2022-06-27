@@ -1,7 +1,3 @@
-.footer__menu {
-}
-
-
 @media (max-width: 767px) {
   .footer__menu {
     display: flex;

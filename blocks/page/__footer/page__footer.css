@@ -1,6 +1,5 @@
 .page__footer {
   padding: 0 48px;
-  outline: 1px dashed darkorange;
 }
 
 @media (max-width: 1023px) {
