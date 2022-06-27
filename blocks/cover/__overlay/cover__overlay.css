@@ -1,5 +1,4 @@
 .cover__overlay {
-  display: block;
   text-decoration: none;
   color: white;
   min-height: 740px;
@@ -7,7 +6,6 @@
       margin: 0 auto;  */
   background-image: url(../../../images/cover-img.jpg);
   background-repeat: no-repeat;
-  background-position: center;
   background-size: cover;
   background-position: bottom;
   display: flex;
