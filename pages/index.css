@@ -54,7 +54,7 @@
 @import url('../blocks/place/__url/place__url.css');
 @import url('../blocks/place/__link/place__link.css');
 @import url('../blocks/place/__article-text/place__article-text.css');
-@import url('../blocks/place/__article-text/_break/place__article-text_break.css');
+@import url('../blocks/place/__article-text-break/place__article-text-break.css');
 
 @import url('../blocks/place/place.css');
 
