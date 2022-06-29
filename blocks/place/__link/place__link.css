@@ -2,9 +2,8 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 1.22;
-  text-decoration-line: none;
+  text-decoration: none;
   color: white;
-  border-bottom: 1px solid white;
   transition: opacity 0.3s linear;
 }
 
