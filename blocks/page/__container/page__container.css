@@ -11,3 +11,9 @@
   box-sizing: border-box;
   color: white;
 }
+
+@media (max-width: 768px) {
+.page__container {
+  padding-top: 16px;
+}
+}
